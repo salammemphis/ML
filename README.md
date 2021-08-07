@@ -8,6 +8,7 @@ Topic covered
 2. Logistic regression
 3. Time seriese analysis using classical ML and LSTM
 4. Hypothesis testing
+5. K-means clustering
 
 Models to solve problems
 ======================
