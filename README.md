@@ -9,7 +9,7 @@ Topic covered
 3. Time seriese analysis using classical ML and LSTM
 4. Hypothesis testing
 
-Models to solve probles
+Models to solve problems
 ======================
 1. Sales prediction
 2. Anomaly detection
