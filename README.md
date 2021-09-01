@@ -9,6 +9,7 @@ Topic covered
 3. Time seriese analysis using classical ML and LSTM
 4. Hypothesis testing
 5. K-means clustering
+6. Gaussian Mixture Model 
 
 Models to solve problems
 ======================
