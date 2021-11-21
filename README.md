@@ -10,6 +10,8 @@ Topic covered
 4. Hypothesis testing
 5. K-means clustering
 6. Gaussian Mixture Model 
+7. DBSCAN clustering
+8. PCA
 
 Models to solve problems
 ======================
