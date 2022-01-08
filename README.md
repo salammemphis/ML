@@ -12,10 +12,11 @@ Topic covered
 6. Gaussian Mixture Model 
 7. DBSCAN clustering
 8. PCA
-9. 9. Association mining (Apriori Algorith)
+9. Association mining (Apriori Algorith)
 
 Models to solve problems
 ======================
 1. Sales prediction
 2. Anomaly detection
 3. Sentiment analysis
+4. Market basket analysis to increase profit
