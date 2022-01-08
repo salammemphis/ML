@@ -12,7 +12,7 @@ Topic covered
 6. Gaussian Mixture Model 
 7. DBSCAN clustering
 8. PCA
-9. Association mining (Apriori Algorith)
+9. Association mining (Apriori Algorithm)
 
 Models to solve problems
 ======================
